@@ -1,20 +1,23 @@
 main(){
 
+var text1 = "Guilherme ";
+var text2 = "Francisquini";
+
+var total = text1 + text2;
+print(total);
   // var total = 2 + 3;
   // var total = 2 - 3;
   // var total = 3 - 2;
   // var total = 10 / 2;
   // var total = 10 * 2;
 
-  var num1 = 10;
-  var num2 = 2;
-  // var total = num1 * num2;
+  // var num1 = 10;
+  // var num2 = 2;
+  // // var total = num1 * num2;
   // var total = num1 / num2;
-  var total = num1 % num2;
+  // var total = num1 % num2;
 
-  print(total);
-
-
+  // print(total);
 
   // var hello = "Hello Word";
   // hello = "Outro valor";
